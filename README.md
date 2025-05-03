@@ -1,8 +1,8 @@
 # FabVali
-> Welcome on my profile.
-
-
+> Welcome to my GitHub profile. I like making apps and learning new things by doing them.
 -------
+### My Favorite Coding Language
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ![Deine GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabvali08&show_icons=true&theme=tokyonight)
 ![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=fabvali08&layout=compact&theme=tokyonight)
