@@ -7,8 +7,6 @@
 ![Deine GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabvali08&show_icons=true&theme=tokyonight)
 ![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=fabvali08&layout=compact&theme=tokyonight)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 
 <!--
 **FabVali08/fabvali08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
