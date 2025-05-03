@@ -1,5 +1,5 @@
 # ✨ FabVali
-> Welcome to my GitHub profile. I like making apps and learning new things by doing them.
+> Welcome to my GitHub profile. I like making apps and learning new things by doing them. This is my second Account, scince my old one got unavailable.
 -------
 
 ### 🔥 My Favorite Coding Language
