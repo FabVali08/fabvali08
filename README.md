@@ -13,9 +13,6 @@
 ### 🚀 Top Repositories
 [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=fabvali08&repo=easter-egg-discord-bot&theme=github_dark)](https://github.com/fabvali08/easter-egg-discord-bot) More Soon...
 
-### 📅 GitHub Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fabvali08&theme=github_dark)
-
 ### 🚧 Current Work
 - **Nevika AI**
     - An Character creation Website with Backend
