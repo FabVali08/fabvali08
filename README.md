@@ -1,7 +1,10 @@
 ## Hi there 👋
-![Deine GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&theme=tokyonight)
-![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=DEINUSERNAME&layout=compact&theme=tokyonight)
-![Commit-Übersicht](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DEINUSERNAME&theme=github)
+![Deine GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabvali08&show_icons=true&theme=tokyonight)
+![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=fabvali08&layout=compact&theme=tokyonight)
+![Commit-Übersicht](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabvali08&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DEINBENUTZERNAME&theme=github)
+
+
 
 <!--
 **FabVali08/fabvali08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
