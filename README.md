@@ -16,7 +16,6 @@
 [![](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/ "HTML5")
 [![](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/ "CSS")
 [![](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org "postgresql")
-[![](https://skillicons.dev/icons?i=kotlin)](https://google.com "kotlin")
 
 
 ## 🚀 Top Repositories
