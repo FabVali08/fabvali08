@@ -1,34 +1,60 @@
-# ✨ FabVali
-> Welcome to my GitHub profile. I like making apps and learning new things by doing them. This is my second Account, scince my old one got unavailable.
+<p align="center">
+<h1 align="center">✨ FabVali ✨</h1>
+<h3 align="center" color=gray>Welcome to my GitHub profile. I like making apps and learning new things by doing them. This is my second Account, scince my old one got unavailable.</h3>
+
 -------
 
-## 🔥 My Favorite Coding Language
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/I like-Python-3776AB?style=flat&logo=python&logoColor=FFD43B" alt="Python Badge" height="30">
-</a>
+<h3 align="center">🔥 My Favorite Coding Language 🔥</h3>
+<div align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/I like-Python-3776AB?style=flat&logo=python&logoColor=FFD43B" alt="Python Badge" height="30">
+  </a>
+</div>
 
-## ⚡ The Languages i used the most
-![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=fabvali08&layout=compact&theme=github_dark)
+<h3 align="center">⚡ The Languages I Used the Most ⚡</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabvali08&layout=compact&theme=github_dark" alt="Top Languages">
+</div>
 
-## 💻 Languages I Know
-[![](https://skillicons.dev/icons?i=python)](https://www.python.org/ "Python")
-[![](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/ "JavaScript")
-[![](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML "HTML5")
-[![](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/css/ "CSS")
-[![](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org "postgresql")
+<h3 align="center">💻 Languages I Know 💻</h3>
+<div align="center">
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" title="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"></a>
+</div>
 
+<h3 align="center">🚀 Public Projects 🚀</h3>
+<div align="center">
+  <a href="https://github.com/fabvali08/easter-egg-discord-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabvali08&repo=easter-egg-discord-bot&theme=github_dark" alt="Easter Egg Discord Bot">
+  </a>
+  <p>More coming soon...</p>
+</div>
 
-## 🚀 Public Projekte  
-[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=fabvali08&repo=easter-egg-discord-bot&theme=github_dark)](https://github.com/fabvali08/easter-egg-discord-bot) More Soon...
+<h3 align="center">## 🔗 Discord 🔗</h3>
+<div align="center" style="width: 100%; max-width: 800px;">
+  <a href="https://discord.com/users/660165548415516672">
+    <img src="https://lanyard.cnrad.dev/api/660165548415516672?showDisplayName=true&theme=dark&width=800" 
+         alt="Discord Presence" 
+         style="width: 40%; height: auto;">
+  </a>
+</div>
 
-## 🔗 Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/660165548415516672?showDisplayName=true&theme=dark)](https://discord.com/users/660165548415516672)
-
-### 🚧 Current Work
-- **Nevika AI**
-    An Character creation Website with Backend
-- **ASFA**
-    Discord All in One Bot.
+<h3 align="center">🚧 Current Work 🚧</h3>
+<div align="center" style="max-width: 800px; margin: 0 auto;">
+  <table>
+    <tr>
+      <td><strong>Nevika AI</strong></td>
+      <td>Character creation platform with custom backend and AI integration</td>
+    </tr>
+    <tr>
+      <td><strong>ASFA</strong></td>
+      <td>Feature-rich all-in-one Discord bot with moderation, utilities, and games</td>
+    </tr>
+  </table>
+</div>
 
 
 <!--
