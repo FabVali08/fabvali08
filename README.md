@@ -21,14 +21,15 @@
 ## 🚀 Top Repositories
 [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=fabvali08&repo=easter-egg-discord-bot&theme=github_dark)](https://github.com/fabvali08/easter-egg-discord-bot) More Soon...
 
+## 🔗 Discord
+[![Discord](https://lanyard.cnrad.dev/api/660165548415516672)](https://discord.com/users/660165548415516672)
+
 ### 🚧 Current Work
 - **Nevika AI**
     An Character creation Website with Backend
 - **ASFA**
     Discord All in One Bot.
---------
-### 🔧 My Current Projects
-<a href="https://api.asfa-bot.xyz"><img src="https://i.ibb.co/Z1GhfwgD/zU15qXq.png" alt="Nevika AI" width="100"/></a>
+
 
 <!--
 **FabVali08/fabvali08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
