@@ -13,8 +13,8 @@
 ## 💻 Languages I Know
 [![](https://skillicons.dev/icons?i=python)](https://www.python.org/ "Python")
 [![](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/ "JavaScript")
-[![](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/ "HTML5")
-[![](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/ "CSS")
+[![](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML "HTML5")
+[![](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/css/ "CSS")
 [![](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org "postgresql")
 
 
