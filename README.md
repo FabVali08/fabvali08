@@ -22,7 +22,7 @@
 [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=fabvali08&repo=easter-egg-discord-bot&theme=github_dark)](https://github.com/fabvali08/easter-egg-discord-bot) More Soon...
 
 ## 🔗 Discord
-[![Discord](https://lanyard.cnrad.dev/api/660165548415516672)](https://discord.com/users/660165548415516672)
+[![Discord Presence](https://lanyard.cnrad.dev/api/660165548415516672?showDisplayName=true&theme=dark)](https://discord.com/users/660165548415516672)
 
 ### 🚧 Current Work
 - **Nevika AI**
