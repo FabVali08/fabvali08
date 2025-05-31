@@ -18,7 +18,7 @@
 [![](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org "postgresql")
 
 
-## 🚀 Top Repositories
+## 🚀 Public Projekte  
 [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=fabvali08&repo=easter-egg-discord-bot&theme=github_dark)](https://github.com/fabvali08/easter-egg-discord-bot) More Soon...
 
 ## 🔗 Discord
