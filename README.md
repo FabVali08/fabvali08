@@ -33,7 +33,7 @@
   <p>More coming soon...</p>
 </div>
 
-<h3 align="center">## 🔗 Discord 🔗</h3>
+<h3 align="center">🔗 Discord 🔗</h3>
 <div align="center" style="width: 100%; max-width: 800px;">
   <a href="https://discord.com/users/660165548415516672">
     <img src="https://lanyard.cnrad.dev/api/660165548415516672?showDisplayName=true&theme=dark&width=800" 
