@@ -30,6 +30,9 @@
   <a href="https://github.com/fabvali08/easter-egg-discord-bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabvali08&repo=easter-egg-discord-bot&theme=github_dark" alt="Easter Egg Discord Bot">
   </a>
+  <a href="https://github.com/FabVali08/discord_giveaway_forum">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabvali08&repo=discord_giveaway_forum&theme=github_dark" alt="Discord-Giveaway-Bot">
+  </a>
   <p>More coming soon...</p>
 </div>
 
