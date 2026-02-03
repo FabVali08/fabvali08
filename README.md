@@ -11,10 +11,9 @@
   </a>
 </div>
 
-<h3 align="center">⚡ The Languages I Used the Most ⚡</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabvali08&layout=compact&theme=github_dark" alt="Top Languages">
-</div>
+<a href="https://github.com/FabVali08/Fabvali08">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabVali08&theme=github_dark" style="height: 300px"/></div>
+</a>  
 
 <h3 align="center">💻 Languages I Know 💻</h3>
 <div align="center">
