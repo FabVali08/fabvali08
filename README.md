@@ -41,7 +41,11 @@
       <td>Character creation platform with custom backend and AI integration</td>
     </tr>
     <tr>
-      <td><strong>ASFA</strong></td>
+      <td><strong>Small project for clients</strong></td>
+      <td>I accept requests for small projects within my skill range. Send me and email or contact me on discord for more information.</td>
+    </tr>
+    <tr>
+      <td><strong>ASFA (outdated)</strong></td>
       <td>Feature-rich all-in-one Discord bot with moderation, utilities, and games</td>
     </tr>
   </table>
