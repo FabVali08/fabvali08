@@ -11,8 +11,8 @@
   </a>
 </div>
 
-<a href="https://github.com/FabVali08/Fabvali08">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabVali08&theme=github_dark" style="height: 300px"/></div>
+<a href="https://github.com/FabVali/Fabvali">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabVali&theme=github_dark" style="height: 300px"/></div>
 </a>  
 
 <h3 align="center">💻 Languages I Know 💻</h3>
