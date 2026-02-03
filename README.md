@@ -24,17 +24,6 @@
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"></a>
 </div>
 
-<h3 align="center">🚀 Public Projects 🚀</h3>
-<div align="center">
-  <a href="https://github.com/fabvali08/easter-egg-discord-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabvali08&repo=easter-egg-discord-bot&theme=github_dark" alt="Easter Egg Discord Bot">
-  </a>
-  <a href="https://github.com/FabVali08/discord_giveaway_forum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabvali08&repo=discord_giveaway_forum&theme=github_dark" alt="Discord-Giveaway-Bot">
-  </a>
-  <p>More coming soon...</p>
-</div>
-
 <h3 align="center">🔗 Discord 🔗</h3>
 <div align="center" style="width: 100%; max-width: 800px;">
   <a href="https://discord.com/users/660165548415516672">
